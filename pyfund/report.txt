@@ -1,0 +1,7 @@
+************* Module banner
+banner.py:1: [C0326(bad-whitespace), ] Exactly one space required after comma
+def banner(message,border='-'):
+                  ^
+banner.py:6: [C0305(trailing-newlines), ] Trailing newlines
+banner.py:1: [C0111(missing-docstring), ] Missing module docstring
+banner.py:1: [C0111(missing-docstring), banner] Missing function docstring
